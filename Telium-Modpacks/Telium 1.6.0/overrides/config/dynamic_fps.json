@@ -1,0 +1,10 @@
+{
+  "states": {
+    "abandoned": {
+      "frame_rate_target": 5,
+      "volume_multipliers": {
+        "master": 0.4
+      }
+    }
+  }
+}
